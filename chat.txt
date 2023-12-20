@@ -1,0 +1,8 @@
+07:18:42	 From Sahil Kataria : Risk of Steganography if we download .png file directly ?
+07:34:50	 From Orlando Ortega : https://synopsys.sharepoint.com/sites/EFT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FEFT%2FShared%20Documents%2Fsecureshare%2Fcreatepw%2Eperl&parent=%2Fsites%2FEFT%2FShared%20Documents%2Fsecureshare
+07:35:54	 From Orlando Ortega : owner is Felix Liang
+07:44:45	 From Orlando Ortega : maybe we can also grab a copy of the file via Crowdstrike get the hash and check against CS, Tanium, DG to see how it was exfiltrated by user
+07:46:21	 From Orlando Ortega : check their emails to see if they have any contacts outside
+07:50:33	 From Chanda Pulliam : for what it's worth, the Tanium historical logs do show that the ip address used to access that file does belong to tusharb's workstation.
+08:01:37	 From Ben Zimmermann : If you have to drop for another call, you can.  We will finish up for the recording
+08:06:52	 From Orlando Ortega : another interesting use case for certutil: https://tzusec.com/how-to-download-files-with-certutil-exe/
